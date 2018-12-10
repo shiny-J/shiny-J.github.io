@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Yinda Zhang</title>
+	<link rel="stylesheet" type="text/css" href="/web/pvg.css">
+</head>
+<body>
+
+
+<table style="margin-top: 20px;"><tr><td style="width: 200px;">
+<img src="shiny.jpg" style="width: 180px;"/>
+</td><td>
+<h1>Yinda Zhang</h1>
+<p>Ph.D. Candidate</p>
+<p>
+Department of Computer Science<br/>
+Princeton University<br/>
+<b>Room 418A</b>, 35 Olden Street<br/>
+Princeton, NJ 08544
+</p>
+<p>
+Email: yindaz [at] cs [dot] princeton [dot] edu
+</p>
+<!-- <p>
+Research Group:
+	<a href="http://vision.princeton.edu">Princeton Vision Group</a></p> -->
+<p>
+<a href="http://scholar.google.com/citations?user=F15ODMIAAAAJ">Google Scholar Profile</a></p>
+<a href="./yinda_cv.pdf">Curriculum Vitae</a></p>
+
+</td></tr></table>
+
+<h2>Brief Bio.:</h2>
+
+<p>Yinda Zhang is a 4th-year PhD student at Princeton University, advised by <a href="http://www.cs.princeton.edu/~funk/"><b>Professor Thomas Funkhouser</b></a>. Before that, he received a Bachelor degree from Dept. Automation, Tsinghua University and a Master degree from Dept. ECE, National University of Singapore under the supervision of Prof. Ping Tan and Prof. Shuicheng Yan. He is currently working on 3D context model, 3D deep learning, and scene understanding.
+</p>
+
+<h2>Publications:</h2>
+
+
+<!-- <h2>Internship:</h2>
+<ul>
+<li></li>
+</ul> -->
+
+<script type="text/javascript" src="/web/footer.js"></script>
+</body></html>
