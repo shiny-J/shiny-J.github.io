@@ -19,12 +19,11 @@ body, td {
 
 b {
 	font-family: Arial;
-	font-size: 12pt;
 }
 
 h1 {
 	font-family: Arial;
-	font-size: 18pt;
+	font-size: 20pt;
 }
 
 h2 {
@@ -52,7 +51,7 @@ body
 .icon img{
     margin-left: auto;
     margin-right: auto;			
-	height: 50px;
+	height: 100px;
 	display: block;
 }
 
@@ -83,16 +82,16 @@ body
 }
 
 #pubList tr td:first-child{
-  width: 120px;
-  height: 100px;
+  width: 240px;
+  height: 200px;
   text-align: center;
 }
 #pubList tr td:last-child{
   padding-left: 20px;
 }
 #pubList tr td img{
-  max-width: 120px !important;
-  max-height: 100px !important; 
+  max-width: 240px !important;
+  max-height: 200px !important; 
 }
 
 a:link, a:visited {
