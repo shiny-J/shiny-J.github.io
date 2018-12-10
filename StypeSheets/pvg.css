@@ -19,6 +19,7 @@ body, td {
 
 b {
 	font-family: Arial;
+	font-size: 12pt;
 }
 
 h1 {
@@ -51,7 +52,7 @@ body
 .icon img{
     margin-left: auto;
     margin-right: auto;			
-	height: 40px;
+	height: 50px;
 	display: block;
 }
 
@@ -83,7 +84,7 @@ body
 
 #pubList tr td:first-child{
   width: 120px;
-  height: 80px;
+  height: 100px;
   text-align: center;
 }
 #pubList tr td:last-child{
@@ -91,7 +92,7 @@ body
 }
 #pubList tr td img{
   max-width: 120px !important;
-  max-height: 80px !important; 
+  max-height: 100px !important; 
 }
 
 a:link, a:visited {
