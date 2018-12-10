@@ -24,11 +24,15 @@ b {
 h1 {
 	font-family: Arial;
 	font-size: 20pt;
+	margin-top: 20px; 
+    margin-bottom: 10px; 
 }
 
 h2 {
 	font-family: Arial;
 	font-size: 15pt;
+	margin-top:20px; 
+    margin-bottom:10px; 
 }
 
 body
@@ -83,7 +87,7 @@ body
 
 #pubList tr td:first-child{
   width: 240px;
-  height: 100px;
+  height: 120px;
   text-align: center;
 }
 #pubList tr td:last-child{
@@ -91,7 +95,7 @@ body
 }
 #pubList tr td img{
   max-width: 240px !important;
-  max-height: 100px !important; 
+  max-height: 120px !important; 
 }
 
 a:link, a:visited {
